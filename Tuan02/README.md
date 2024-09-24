@@ -1,5 +1,5 @@
 # Đây là kết quả của bài 1
-![alt text](image-1.png)
-![alt text](image-2.png)
+![alt text](cau1a.png)
+![alt text](cau1b.png)
 # Đây là kết quả của bài 2
-![alt text](image-3.png)
+![alt text](cau2.png)
