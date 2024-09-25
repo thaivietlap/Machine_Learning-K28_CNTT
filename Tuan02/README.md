@@ -6,8 +6,8 @@ Bộ phân lớp Bayes là một giải thuật thuộc lớp giải thuật th�
 # 3. Hiện thị kết quả lên website
 ![alt text](web.png)
 # 4. Kết quả của 2 bài toán: 
-Bài toán 1
+# Bài toán 1
 ![alt text](cau1a.png)
 ![alt text](cau1b.png)
-Bài toán 2
+# Bài toán 2
 ![alt text](cau2.png)
