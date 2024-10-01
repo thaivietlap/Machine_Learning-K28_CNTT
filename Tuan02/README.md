@@ -4,10 +4,10 @@ Framework : numpy,pandas, sklearn , flask
 Thuật toán Naive Bayes, Decision Tree
 Bộ phân lớp Bayes là một giải thuật thuộc lớp giải thuật thống kê, nó có thể dự đoán xác suất của một phần tử dữ liệu thuộc vào một lớp là bao nhiêu. Phân lớp Bayes được dựa trên định lý Bayes (định lý được đặt theo tên tác giả của nó là Thomas Bayes)
 # 3. Hiện thị kết quả lên website
-![alt text](image.png)
+![Trang chủ](image.png)
 # 4. Kết quả của 2 bài toán: 
 # Bài toán 1
-![alt text](cau1a.png)
-![alt text](cau1b.png)
+![câu 1a](static/cau1a.png)
+![câu 1b](static/cau1b.png)
 # Bài toán 2
-![alt text](cau2.png)
+![câu 2](static/cau2.png)
