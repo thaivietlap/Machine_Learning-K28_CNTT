@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Machine Learning</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+            padding: 50px;
+        }
+        .container {
+            background-color: #fff;
+            padding: 30px;
+            border-radius: 8px;
+            max-width: 600px;
+            margin: auto;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        textarea {
+            width: 100%;
+            height: 150px;
+            padding: 10px;
+            margin-top: 10px;
+            margin-bottom: 20px;
+            resize: vertical;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        input[type="submit"] {
+            background-color: #4CAF50;
+            color: white;
+            padding: 12px 24px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        .result {
+            margin-top: 20px;
+            font-size: 18px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Phân tích Tâm trạng</h2>
+        <form method="POST">
+            <label for="text">Nhập văn bản của bạn:</label><br>
+            <textarea id="text" name="text" placeholder="Nhập văn bản ở đây..."></textarea><br>
+            <input type="submit" value="Phân tích">
+        </form>
+        {% if prediction %}
+            <div class="result">
+                Tâm trạng của bạn là: <strong>{{ prediction }}</strong>
+            </div>
+        {% endif %}
+    </div>
+</body>
+</html>
