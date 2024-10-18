@@ -6,6 +6,6 @@ Matplotlib là một thư viện mạnh mẽ trong Python, chủ yếu được 
 Support Vector Machine (SVM): Dùng để phân loại hoặc dự đoán giá trị. Cây quyết định xây dựng các nút và nhánh dựa trên các đặc trưng trong dữ liệu để đưa ra các quyết định hoặc phân loại.
 # 3. Hiện thị kết quả lên website
 Câu 1:
-![c1.png](c1.png)
+![c1](templates/c1.png)
 Câu 2:
-![c1.png](c2.png)
+![c1](templates/c2.png)
